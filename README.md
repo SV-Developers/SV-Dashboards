@@ -13,7 +13,7 @@ Check out a [live demo](https://sv-dashboards.vercel.app/).
 To go with the latest version please copy and past in your terminal the following steps: 
 
 ```bash
-git clone https://github.com/SV-Developers/Slider-Animation.git
+git clone https://github.com/SV-Developers/SV-Dashboards.git
 ```
 
 Run the development server:
